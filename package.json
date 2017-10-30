@@ -86,6 +86,7 @@
     "rc-collapse": "~1.7.0",
     "rc-tabs": "^9.0.3",
     "react-autosuggest": "^9.0.0",
+    "react-portal": "^3.1.0",
     "section-iterator": "^2.0.0"
   },
   "peerDependencies": {
