@@ -56,7 +56,7 @@ export default css`
       right: 0;
   }
 
-  .DateRangePicker__picker--vertical {
+  .CalendarMonthGrid CalendarMonthGrid--vertical-scrollable {
     ${media.smallPhones`
       zoom: 1.1;
     `}
